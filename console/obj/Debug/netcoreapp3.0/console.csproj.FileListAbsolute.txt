@@ -1,0 +1,11 @@
+C:\Users\Rocio Milla\source\repos\console\console\bin\Debug\netcoreapp3.0\console.exe
+C:\Users\Rocio Milla\source\repos\console\console\bin\Debug\netcoreapp3.0\console.deps.json
+C:\Users\Rocio Milla\source\repos\console\console\bin\Debug\netcoreapp3.0\console.runtimeconfig.json
+C:\Users\Rocio Milla\source\repos\console\console\bin\Debug\netcoreapp3.0\console.runtimeconfig.dev.json
+C:\Users\Rocio Milla\source\repos\console\console\bin\Debug\netcoreapp3.0\console.dll
+C:\Users\Rocio Milla\source\repos\console\console\bin\Debug\netcoreapp3.0\console.pdb
+C:\Users\Rocio Milla\source\repos\console\console\obj\Debug\netcoreapp3.0\console.csprojAssemblyReference.cache
+C:\Users\Rocio Milla\source\repos\console\console\obj\Debug\netcoreapp3.0\console.AssemblyInfoInputs.cache
+C:\Users\Rocio Milla\source\repos\console\console\obj\Debug\netcoreapp3.0\console.AssemblyInfo.cs
+C:\Users\Rocio Milla\source\repos\console\console\obj\Debug\netcoreapp3.0\console.dll
+C:\Users\Rocio Milla\source\repos\console\console\obj\Debug\netcoreapp3.0\console.pdb
